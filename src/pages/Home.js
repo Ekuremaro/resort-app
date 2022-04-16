@@ -4,7 +4,6 @@ import Banner from "../components/Banner";
 import { Link } from "react-router-dom";
 import Services from "../components/Services";
 import FeaturedRooms from "../components/FeaturedRooms";
-import StyledHero from "../components/StyledHero";
 
 const Home = () => {
   return (
